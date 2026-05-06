@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1777972945 source:e:\cse323\ex\mem_manager.c
+	"mem_manager.h"
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+
+1777972869 e:\cse323\ex\mem_manager.h
+	<stddef.h>
+
+1777981651 source:e:\cse323\ex\main.c
+	"mem_manager.h"
+	"thread.h"
+	<stdio.h>
+	<string.h>
+
+1777981601 e:\cse323\ex\thread.h
+
+1777981620 source:e:\cse323\ex\thread.c
+	"thread.h"
+	"mem_manager.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
